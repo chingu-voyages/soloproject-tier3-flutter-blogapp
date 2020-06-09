@@ -61,8 +61,7 @@ your users
 
 
 **Extras (Not Required)**
-- [ ] Add the ability for users to upload pictures (or even audio clips) to notes
-- [ ] Allow notes to be formatting using Markdown
+- [ ] Add the ability for users to upload pictures (or even audio clips) to articles
 - [ ] Use as FEW external packages and libraries as possible to reduce the 
 number of dependencies.
 - [ ] Write Unit and Widget Tests
