@@ -16,6 +16,16 @@ requirements, please checkout the following.
 
 Take whatever packages and backend frameworks of your choice.
 
+### For Beginners in Dart and Flutter
+
+The primary programming language in Flutter is Dart. Dart is a programming language from Google primarily focused on performance and UI design, so it is perfect for Flutter development. If you have never worked with Dart, I would recommend to start with the [first Tier](https://github.com/chingu-voyages/soloproject-tier2-flutter-projectname) of the Flutter projects. But if you feel ready here are some ressources that can help you.
+
+- [How to install Dart](https://dart.dev/get-dart)
+
+- [Dart Language Tour](https://dart.dev/guides/language/language-tour)
+
+- [Excersim - Learn Dart the practical way](https://exercism.io/tracks/dart)
+
 ### Requirements
 
 *Structure*
